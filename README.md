@@ -1,4 +1,4 @@
-# 💹 FinPulse AI: Deciphering Market Sentiment with Artificial Intelligence 🤖
+# 💹 SentiMent AI: Deciphering Market Sentiment with Artificial Intelligence 🤖
 
 ![Financial Data & AI Banner](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 *Navigating the financial currents by understanding the whispers of the market.*
@@ -58,23 +58,6 @@ This project leverages a cutting-edge stack to deliver powerful sentiment analys
 *(Conceptual Architecture Diagram)*
 ![Architecture Diagram Placeholder](https://via.placeholder.com/800x400?text=FinPulse+AI+Conceptual+Architecture)
 *Fig 1: Data Ingestion -> NLP Processing -> Sentiment Scoring -> Insight Generation -> Visualization/API*
-
----
-
-## 📊 Sneak Peek: Visualizing Sentiment
-
-*(Imagine these are actual outputs or dashboard screenshots from your project)*
-
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/400x300?text=Sentiment+Trend+for+Stock+XYZ" alt="Sentiment Trend Chart for a specific stock over time" width="350"/></td>
-    <td><img src="https://via.placeholder.com/400x300?text=Sector+Sentiment+Heatmap" alt="Heatmap showing sentiment across different financial sectors" width="350"/></td>
-  </tr>
-  <tr>
-    <td align="center"><i>Fig 2: Sentiment evolution for "Innovatech Corp" (XYZ).</i></td>
-    <td align="center"><i>Fig 3: Overall economic sentiment heatmap by news source.</i></td>
-  </tr>
-</table>
 
 ---
 
